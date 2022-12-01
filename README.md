@@ -5,5 +5,3 @@
   - I have worked with cryptography, access control, machine learning and full stack development till now.
   - I am broadening my knowledge of full stack development. 
   - I love making tools and packages. 
-
-  - I am solving DSA problem in python these days so I may came up with tools to visualise program execution.
