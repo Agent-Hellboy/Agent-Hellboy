@@ -8,7 +8,9 @@
 
 ## Flask extensions I have implemented and looking forward to make it more usable 
   -![flask-crlatency](https://github.com/Agent-Hellboy/flask-crlatency/) A flask extension to log route latency
+  
   -![flask-json-db](https://github.com/Agent-Hellboy/flask-json-db) A flask extension to log a variable value inside view in a JSON file
+  
   -![flask-starter](https://github.com/Agent-Hellboy/flask-starter) Set up a flask web app by running one command.
 
 ![Visitor Count](https://profile-counter.glitch.me/Agent-Hellboy/count.svg)
