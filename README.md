@@ -6,7 +6,7 @@
   - I am broadening my knowledge of full-stack development. 
   - I love making tools and packages.
 
-### Handy Python libs 
+### Handy Python libs I have implemented
 
   - ![trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace path of a particular key inside a nested dict 
   - ![log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls
