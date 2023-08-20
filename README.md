@@ -8,8 +8,11 @@
 
 ### Handy Python libs I have implemented
 
-  - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace path of a particular key inside a nested dict 
+  - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict 
   - [log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls
+  - [datatable-faker](https://pypi.org/project/datatable-faker/) Library to generate fake dataclass for unit test
+
+
     
 ### Flask extensions I have implemented and looking forward to making them more usable 
 
