@@ -2,15 +2,16 @@
 # I'm Prince Roshan 👋🏾👨‍💻
 
   - I like to explore the internals of programming languages and I have started it with Python and javascript.
-  - made some contribution to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy+is%3Amerged&type=pullrequests) looking forward to javascript to understand it better.
+  - made some contribution(fixed bugs and added new feature in mmap,calendar,logging,enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy+is%3Amerged&type=pullrequests) looking forward to javascript to understand it better.
   - I am broadening my knowledge of full-stack development. 
   - I love making tools and packages.
 
 ### Handy Python libs, I have implemented
 
-  - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict 
-  - [log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls
-  - [datatable-faker](https://pypi.org/project/datatable-faker/) Library to generate fake dataclass for unit test
+  - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict. 
+  - [log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls, used ast to statically find the key.
+  - [datatable-faker](https://pypi.org/project/datatable-faker/) Library to generate fake data class for unit test.
+  - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) piston-like python bot for Google chat. you can configure it in your Google Workspace and execute Python code in the chat window.
 
 
     
