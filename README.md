@@ -26,4 +26,8 @@
    - [find-unused-import](https://github.com/Agent-Hellboy/find-unused-import) My solution to find_unused_import problem of python.
    - One in making (A tool to find if sync code can be ported to async)
 
+### Python based full stack projects
+   - https://github.com/Alpha-Males/lims-with-recommendation-engine
+   - https://github.com/Alpha-Males/MovieFreak
+
 ![Visitor Count](https://profile-counter.glitch.me/Agent-Hellboy/count.svg)
