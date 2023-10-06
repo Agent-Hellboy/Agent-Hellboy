@@ -20,11 +20,6 @@
    - [flask-json-db](https://github.com/Agent-Hellboy/flask-json-db) A flask extension to log a variable value inside view in a JSON file
    - [flask-starter](https://github.com/Agent-Hellboy/flask-starter) Set up a flask web app by running one command.
 
-### Handly Python tools where I have used ast for static analysis 
-
-   - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict, used ast to statically find the key. 
-   - [find-unused-import](https://github.com/Agent-Hellboy/find-unused-import) My solution to find_unused_import problem of python.
-   - One in making (A tool to find if sync code can be ported to async)
 
 ### Python based full stack projects
    - https://github.com/Alpha-Males/lims-with-recommendation-engine
