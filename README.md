@@ -3,8 +3,9 @@
 
   - I like to explore the internals of programming languages and I have started it with Python and javascript.
   - made some contribution(fixed bugs and added new feature in mmap,calendar,logging,enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy+is%3Amerged&type=pullrequests) looking forward to javascript to understand it better.
-  - I am broadening my knowledge of full-stack development. 
+  - I am broadening my programming languages internals knowledge.
   - I love making tools and packages, doing python and go at work.
+  - I like exploring backend web framework and looking forward to frontend frameworks 
 
 ### Handy Python libs, I have implemented
 
