@@ -14,7 +14,7 @@
   - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) piston-like python bot for Google chat. you can configure it in your Google Workspace and execute Python code in the chat window.
 
 
-### Few basic Flask extensions which helped in understood few things about flask internal
+### Few basic Flask extensions which helped me understood few things about flask internal
 
    - [flask-crlatency](https://github.com/Agent-Hellboy/flask-crlatency/) A flask extension to log route latency
    - [flask-json-db](https://github.com/Agent-Hellboy/flask-json-db) A flask extension to log a variable value inside view in a JSON file
