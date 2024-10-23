@@ -13,7 +13,7 @@
   - [log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls.
   - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) piston-like python bot for Google chat. you can configure it in your Google Workspace and execute Python code in the chat window.
   - [flask-starter](https://github.com/Agent-Hellboy/flask-starter) Set up a flask web app by running one command.
-  - [Hehe](https://github.com/Agent-Hellboy/chanplus)hehe
+  - [chanplus](https://github.com/Agent-Hellboy/chanplus)hehe
 
 
 ### Full stack projects
