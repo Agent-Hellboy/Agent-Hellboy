@@ -17,7 +17,7 @@
   - [escp](https://github.com/Agent-Hellboy/escp) Enhanced scp
 
 ### My old project I felt good after implementing it 
-  - [Adorn](https://github.com/Agent-Hellboy/Adorn)It's of no use in this modern AI world
+  - [Adorn](https://github.com/Agent-Hellboy/Adorn)It's of no use in this new age editor and AI world
 
 
 ### Full stack projects
