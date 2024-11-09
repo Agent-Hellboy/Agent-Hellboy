@@ -1,13 +1,13 @@
 
 # I'm Agent Hellboy 👋🏾👨‍💻
   - Enjoys contributing to things anonymously.
-  - I like to explore the internals of programming languages, Runtimes, and compilers, and I have started with Python and JavaScript.
+  - I like to explore the internals of programming languages, Runtimes, compilers, build systems, backend, and frontend.
   - made some contribution(fixed bugs and added new feature in mmap,calendar,logging,enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy+is%3Amerged&type=pullrequests) looking forward to javascript to understand it better.
-  - I am broadening my programming language internals knowledge.
-  - I love making tools and packages, doing Python, and go at work.
-  - I like exploring backend web frameworks and looking forward to frontend frameworks 
+  - I am broadening my knowledge of programming language internals.
+  - I love making tools and packages, and doing Python, Go, Cpp, and maybe servers as well as clients at work.
+  - I like(only like no love) exploring backend web frameworks and looking forward to frontend frameworks.
 
-### Handy Python and Go libs, I have implemented
+### Handy Python, Go, and Cpp libs and tools I have implemented
 
   - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict, used ast to statically find the key. 
   - [log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls.
@@ -23,5 +23,6 @@
 
 ### Full stack projects
    - https://github.com/Alpha-Males/MovieFreak (someday, I will convert it into a product)
+   - .....
 
 ![Visitor Count](https://profile-counter.glitch.me/Agent-Hellboy/count.svg)
