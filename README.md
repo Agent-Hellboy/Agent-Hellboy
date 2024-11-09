@@ -2,7 +2,7 @@
 # I'm Agent Hellboy 👋🏾👨‍💻
   - Enjoys contributing to things anonymously -> (still a dream).
   - I like to explore the internals of programming languages, Runtimes, compilers, build systems, backend, and frontend.
-  - made some contribution(fixed bugs and added new feature in mmap,calendar,logging,enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy+is%3Amerged&type=pullrequests) looking forward to javascript to understand it better.
+  - made some contribution(fixed bugs and added new feature in mmap,calendar,logging,enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy+is%3Amerged&type=pullrequests) looking forward to other cool stuff to understand it better.
   - I am broadening my knowledge of programming language internals.
   - I love making tools and packages, and doing Python, Go, Cpp, and maybe servers as well as clients at work.
   - I like(only like no love) exploring backend web frameworks and looking forward to frontend frameworks.
