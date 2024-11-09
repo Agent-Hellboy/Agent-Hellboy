@@ -13,8 +13,9 @@
   - [log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls.
   - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) piston-like python bot for Google chat. you can configure it in your Google Workspace and execute Python code in the chat window.
   - [flask-starter](https://github.com/Agent-Hellboy/flask-starter) Set up a flask web app by running one command.
-  - [chanplus](https://github.com/Agent-Hellboy/chanplus)hehe
+  - [chanplus](https://github.com/Agent-Hellboy/chanplus)Hehe, I don't want to share what this is
   - [escp](https://github.com/Agent-Hellboy/escp) Enhanced scp
+  - [turbo](https://github.com/Agent-Hellboy/turbo)Hehe, again, I don't want to share what this is
 
 ### My old project I felt good after implementing it 
   - [Adorn](https://github.com/Agent-Hellboy/Adorn)It's of no use in this new age editor and AI world
