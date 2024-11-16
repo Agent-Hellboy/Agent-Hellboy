@@ -6,6 +6,10 @@
   - I love making tools and packages, doing Python, Go, Cpp, and servers and clients at work.
   - I like(only like no love) exploring backend web frameworks and looking forward to frontend frameworks.
 
+### My Cool Opensource contri 
+#### Cpython 
+  - made some contribution(fixed bugs and added new feature in mmap,calendar,logging,enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy+is%3Amerged&type=pullrequests) looking forward to other cool stuff to understand it better.
+
 ### Handy Python, Go, and Cpp libs and tools I have implemented
 
   - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict, used ast to statically find the key. 
@@ -21,10 +25,6 @@
 
 ### Project I would continue in the future 
   - [RstEye](https://github.com/RstEyeApp/rsteye) An App to Promote Digital Breaks
-
-### My Cool Opensource contri 
-  ## Cpython 
-    - made some contribution(fixed bugs and added new feature in mmap,calendar,logging,enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy+is%3Amerged&type=pullrequests) looking forward to other cool stuff to understand it better.
 
 ### Full stack projects
    - https://github.com/Alpha-Males/MovieFreak (someday, I will convert it into a product)
