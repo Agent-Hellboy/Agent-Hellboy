@@ -15,6 +15,7 @@
   - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict, used ast to statically find the key. 
   - [log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls.
   - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) piston-like python bot for Google chat. you can configure it in your Google Workspace and execute Python code in the chat window.
+  - [pylibfinder](https://github.com/Agent-Hellboy/pylibfinder)A cpython extension module ... 
   - [flask-starter](https://github.com/Agent-Hellboy/flask-starter) Set up a flask web app by running one command.
   - [chanplus](https://github.com/Agent-Hellboy/chanplus)Hehe, I don't want to share what this is
   - [escp](https://github.com/Agent-Hellboy/escp) Enhanced scp
