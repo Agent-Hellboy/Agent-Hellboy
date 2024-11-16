@@ -20,6 +20,9 @@
 ### My old project I felt good after implementing it 
   - [Adorn](https://github.com/Agent-Hellboy/Adorn)It's of no use in this new age editor and AI world
 
+### Project I would continue in the future 
+  - [RstEye](https://github.com/RstEyeApp/rsteye) An App to Promote Digital Breaks
+
 
 ### Full stack projects
    - https://github.com/Alpha-Males/MovieFreak (someday, I will convert it into a product)
