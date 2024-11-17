@@ -2,7 +2,7 @@
 # I'm Agent Hellboy 👋🏾👨‍💻
   - Enjoys contributing to things anonymously -> (still a dream).
   - I like to explore the internals of programming languages, Runtimes, compilers, build systems, backend, and frontend.
-  - I am broadening my knowledge of programming language internals.
+  - I am broadening my knowledge of Hehe.
   - I love making tools and packages, doing Python, Go, Cpp, and servers and clients at work.
   - I like(only like no love) exploring backend web frameworks and looking forward to frontend frameworks.
 
