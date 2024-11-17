@@ -20,7 +20,7 @@
   - [chanplus](https://github.com/Agent-Hellboy/chanplus)Hehe, I don't want to share what this is
   - [escp](https://github.com/Agent-Hellboy/escp) Enhanced scp
   - [turbo](https://github.com/Agent-Hellboy/turbo)Hehe, again, I don't want to share what this is
-  - [fmsh](https://github.com/Agent-Hellboy/fmsh)Hehe, Hehe
+  - [fmsh](https://github.com/Agent-Hellboy/fmsh)A file management shell 
 
 ### My old project I felt good after implementing it 
   - [Adorn](https://github.com/Agent-Hellboy/Adorn)It's of no use in this new age editor and AI world
