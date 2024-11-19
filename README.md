@@ -8,7 +8,7 @@
 
 ### My Cool Opensource contri 
 #### Cpython 
-  - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy+is%3Amerged&type=pullrequests) looking forward to other cool stuff to understand it better.
+  - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy&type=pullrequests) looking forward to other cool stuff to understand it better.
 
 ### Handy Python, Go, and Cpp libs and tools I have implemented
 
