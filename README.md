@@ -10,7 +10,7 @@
 #### Cpython 
   - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy&type=pullrequests) looking forward to other cool stuff to understand it better.
 
-### Handy Python, Go, and Cpp libs and tools I have implemented
+### Handy Python, Go, Julia, and Cpp libs and tools I have implemented
 
 #### Stable
   - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict, used ast to statically find the key. 
@@ -18,6 +18,7 @@
   - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) is a piston-like Python bot for Google chat. You can configure it in your Google Workspace and execute Python code in the chat window.
   - [pylibfinder](https://github.com/Agent-Hellboy/pylibfinder)A cpython extension module ... 
   - [flask-starter](https://github.com/Agent-Hellboy/flask-starter) Set up a flask web app by running one command.
+  - [FileTypes](https://github.com/JuliaIO/FileTypes.jl) Julia library to detect filetype 
     
 #### Unstable 
   - [chanplus](https://github.com/Agent-Hellboy/chanplus)Hehe, I don't want to share what this is
