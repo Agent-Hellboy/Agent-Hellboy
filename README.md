@@ -1,13 +1,18 @@
 
 # I'm Agent Hellboy 👋🏾👨‍💻
   - Enjoys contributing to things anonymously -> (still a dream).
-  - I like to explore the internals of programming languages, Runtimes, compilers, build systems, backend, and frontend.
   - I am broadening my knowledge of Hehe.
-  - I love making tools and packages, doing Python, Go, Cpp, and servers and clients at work.
+  - I enjoy creating tools and packages and engaging in anonymous debates on Reddit about morality, civility, and social norms.
 
 ### My Cool Opensource contri 
-#### Cpython 
+
+#### Core Languages 
+
+##### Cpython 
   - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy&type=pullrequests) looking forward to other cool stuff to understand it better.
+
+##### Go 
+  - Trying [Go](https://github.com/golang/mod/pulls/Agent-Hellboy)
 
 ### Handy Python, Go, Julia, and Cpp libs and tools I have implemented
 
