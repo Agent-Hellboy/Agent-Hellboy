@@ -12,8 +12,8 @@
   - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy&type=pullrequests) looking forward to other cool stuff to understand it better.
 
 ##### Go 
-  - Trying [Go](https://github.com/golang/mod/pulls/Agent-Hellboy)
-
+  - Go Tools[mod](https://go-review.googlesource.com/c/mod/+/634875)
+    
 ### Handy Python, Go, Julia, and Cpp libs and tools I have implemented
 
 #### Stable
