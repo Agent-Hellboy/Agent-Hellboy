@@ -12,7 +12,7 @@
   - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy&type=pullrequests) looking forward to other cool stuff to understand it better.
 
 ##### Go 
-  - Find my contribution [here](https://github.com/search?q=user:golang+involves:agent-hellboy&type=issues
+  - [Interactions in issues](https://github.com/search?q=user:golang+involves:agent-hellboy&type=issues
 )
   - Go Tools[mod](https://go-review.googlesource.com/c/mod/+/634875)
     
