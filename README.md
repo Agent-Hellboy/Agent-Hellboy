@@ -39,8 +39,4 @@
 ### Project I would continue in the future 
   - [RstEye](https://github.com/RstEyeApp/rsteye) An App to Promote Digital Breaks
 
-### Full stack projects
-   - https://github.com/Alpha-Males/MovieFreak (someday, I will convert it into a product)
-   - .....
-
 ![Visitor Count](https://profile-counter.glitch.me/Agent-Hellboy/count.svg)
