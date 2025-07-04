@@ -9,7 +9,7 @@
 #### Core Languages 
 
 ##### Cpython 
-  - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy&type=pullrequests) looking forward to other cool stuff to understand it better.
+  - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum, configparser and others) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy&type=pullrequests) looking forward to other cool stuff to understand it better.
 
 ##### Go 
   - [Interactions in issues](https://github.com/search?q=user:golang+involves:agent-hellboy&type=issues
