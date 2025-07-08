@@ -29,6 +29,7 @@
   - [hcp](https://github.com/Agent-Hellboy/hcp) A simple clipboard manager for Linux that saves your clipboard history.
   - [dswell](https://github.com/Agent-Hellboy/dswell) A daemon-based file deletion utility that allows you to schedule files or directories for deletion after a specified time period
   - [Gunicorn Prometheus Exporter](https://github.com/Agent-Hellboy/gunicorn-prometheus-exporter) A Gunicorn worker plugin that exports Prometheus metrics to monitor worker performance, including memory usage, CPU usage, request durations, and error tracking
+  - [mcp-server-fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) Creating a fuzzer by following the mutation based and property based testing to fuzz the mcp server.
     
 #### Unstable 
   - [chanplus](https://github.com/Agent-Hellboy/chanplus)Hehe, I don't want to share what this is
