@@ -24,7 +24,8 @@
   - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) is a piston-like Python bot for Google chat. You can configure it in your Google Workspace and execute Python code in the chat window.
   - [pylibfinder](https://github.com/Agent-Hellboy/pylibfinder)A cpython extension module ... 
   - [flask-starter](https://github.com/Agent-Hellboy/flask-starter) Set up a flask web app by running one command.
-  - [FileTypes](https://github.com/JuliaIO/FileTypes.jl) Julia library to detect filetype
+  - [FileTypes.jl](https://github.com/JuliaIO/FileTypes.jl) Julia library to detect filetype
+  - [cpp-filetype](https://github.com/Agent-Hellboy/cpp-filetype)  A minimal cpp based filetype library.
   - [py-sse-mcp](https://github.com/Agent-Hellboy/py-sse-mcp) A framework to create mcp server using sse transport protocol 
   - [hcp](https://github.com/Agent-Hellboy/hcp) A simple clipboard manager for Linux that saves your clipboard history.
   - [dswell](https://github.com/Agent-Hellboy/dswell) A daemon-based file deletion utility that allows you to schedule files or directories for deletion after a specified time period
