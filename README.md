@@ -47,4 +47,5 @@
   - [iPurity](https://github.com/Agent-Hellboy/iPurity) iPurity is a simple NSFW (Not Safe For Work) detector for iOS devices.
 
 
+### Social
 - Book a meeting https://cal.com/prince-roshan-izyp81 if you want to discuss my projects or anything in general.
