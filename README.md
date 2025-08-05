@@ -2,13 +2,14 @@
 # I'm Agent Hellboy 👋🏾👨‍💻
   - Enjoys contributing to things anonymously -> (still a dream).
   - I enjoy creating tools and packages, as well as engaging in anonymous debates on Reddit about morality, civility, and social norms.
+  
 
 ### My Cool Open-source contribution 
 
 #### Core Languages 
 
 ##### Cpython 
-  - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum, configparser and others) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy&type=pullrequests).
+  - made some contributions (fixed bugs and added new features in mmap, calendar, logging, enum, configparser, and others) to [CPython](https://github.com/search?q=repo%3Apython%2Fcpython+author%3AAgent-Hellboy&type=pullrequests).
 
 ##### Go 
   - [Interactions in issues](https://github.com/search?q=user:golang+involves:agent-hellboy&type=issues
@@ -45,3 +46,4 @@
   - [RstEye](https://github.com/RstEyeApp/rsteye) An App to Promote Digital Breaks
   - [iPurity](https://github.com/Agent-Hellboy/iPurity) iPurity is a simple NSFW (Not Safe For Work) detector for iOS devices.
 
+- Book a meeting https://cal.com/prince-roshan-izyp81 if you want to discuss my projects or anything in general.
