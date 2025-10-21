@@ -1,7 +1,8 @@
 
 # I'm Prince Roshan 👋🏾👨‍💻
-  - Enjoys contributing to things anonymously -> (still a dream).
-  - I enjoy creating tools and packages, as well as engaging in anonymous debates on Reddit about morality, civility, and social norms.
+  - I enjoy contributing to things anonymously -> (still a dream).
+  - I write essays on emotions, which are private and for my older self, but we can discuss if you want.
+  - I enjoy creating software, as well as engaging in anonymous debates on Reddit about morality, civility, and social norms.
   
 
 ### My Cool Open-source contribution 
