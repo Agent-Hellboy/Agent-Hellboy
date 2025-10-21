@@ -17,12 +17,12 @@
 )
   - Go Tools[mod](https://go-review.googlesource.com/c/mod/+/634875)
     
-### Handy Python, Go, Julia, and C++ libs and tools I have implemented
+### Handy Software I have implemented
 
 #### Stable
   - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict, used ast to find the key statically. 
   - [log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls.
-  - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) is a piston-like Python bot for Google chat. You can configure it in your Google Workspace and execute Python code in the chat window.
+  - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) is a piston-like Python bot for Google Chat. You can configure it in your Google Workspace and execute Python code in the chat window.
   - [pylibfinder](https://github.com/Agent-Hellboy/pylibfinder)A cpython extension module ... 
   - [flask-starter](https://github.com/Agent-Hellboy/flask-starter) Set up a Flask web app by running one command.
   - [FileTypes.jl](https://github.com/JuliaIO/FileTypes.jl) Julia library to detect filetype
