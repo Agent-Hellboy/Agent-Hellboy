@@ -23,7 +23,7 @@
   - [trace-dkey](https://github.com/Agent-Hellboy/trace-dkey) Python library to trace the path of a particular key inside a nested dict, used ast to find the key statically. 
   - [log_call](https://github.com/Agent-Hellboy/log_call) library to log function or bond-method calls.
   - [google-chat-python-bot](https://github.com/Agent-Hellboy/google-chat-python-bot) is a piston-like Python bot for Google Chat. You can configure it in your Google Workspace and execute Python code in the chat window.
-  - [pylibfinder](https://github.com/Agent-Hellboy/pylibfinder)A cpython extension module ... 
+  - [pylibfinder](https://github.com/Agent-Hellboy/pylibfinder)A CPython extension module to spot a keyword as a function inside Python stdlib  
   - [flask-starter](https://github.com/Agent-Hellboy/flask-starter) Set up a Flask web app by running one command.
   - [FileTypes.jl](https://github.com/JuliaIO/FileTypes.jl) Julia library to detect filetype
   - [cpp-filetype](https://github.com/Agent-Hellboy/cpp-filetype)  A minimal C++ based filetype library.
